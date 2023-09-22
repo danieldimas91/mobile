@@ -1,0 +1,17 @@
+1.fun main() {
+    println("Hello, world!")
+}
+2.println("Hello, world!")
+3.fun main() {
+    println("Hello, Android!")
+    println("Hello, Android!")
+}
+4.fun main() {
+    println("Today is sunny!")
+}
+5.fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+6
